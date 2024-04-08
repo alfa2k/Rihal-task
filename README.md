@@ -9,6 +9,14 @@ This application is designed to categorize news articles, generate abstracts for
 - **Captions:** Enhances the caption of an image associated with the article.
 - **Special Focus on Palestine:** Identifies articles related to Palestine and categorizes them accordingly.
 
+## Gradio App Examples
+
+![Example Image](/Gradio-App/Gradio-App.png)
+
+
+![Example Image](/Gradio-App/Gradio-App-2.png)
+
+
 ## Installation
 
 To run this application, you'll need Python installed on your system. This project is built using Python 3.8. It's recommended to use a virtual environment.
